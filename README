@@ -1,5 +1,9 @@
 Eagle files for a PiezoAmplifier for RepRap Piezo endstop
 
+Credit goes to dinglights from the reprap forum. 
+
+You can read more here: http://forums.reprap.org/read.php?1,635075
+
 It uses a MCP6004 opamp.
 
 Licenced under wtfpl, which you can grap a copy of here: http://www.wtfpl.net/txt/copying/
